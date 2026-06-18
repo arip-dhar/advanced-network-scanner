@@ -38,6 +38,18 @@ Export results:
 ```bash
 python advanced_network_scanner.py 192.168.1.0/24 -o report.csv
 ```
+
+## Disclaimer
+
+This tool is intended for authorized security assessments, educational purposes, and laboratory environments only.
+
+## Technologies Used
+
+- Python
+- Socket Programming
+- Multi-threading
+- SSL/TLS
+- Network Security Concepts
 ## Disclaimer
 
 This tool is intended for authorized security assessments, educational purposes, and laboratory environments only.
@@ -52,5 +64,5 @@ This tool is intended for authorized security assessments, educational purposes,
 
 ## Author
 
-Arip Dhar
+Arip Dhar  
 Cybersecurity Enthusiast | B.Tech CSE
