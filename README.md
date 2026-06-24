@@ -24,19 +24,19 @@ A Python-based Advanced Network Scanner designed for cybersecurity professionals
 Scan a network:
 
 ```bash
-python advanced_network_scanner.py 192.168.1.0/24
+python advanced_network_scanner.py 192.168.10.0/24
 ```
 
 Scan specific ports:
 
 ```bash
-python advanced_network_scanner.py 192.168.1.0/24 -p 22,80,443
+python advanced_network_scanner.py 192.168.10.0/24 -p 22,80,443
 ```
 
 Export results:
 
 ```bash
-python advanced_network_scanner.py 192.168.1.0/24 -o report.csv
+python advanced_network_scanner.py 192.168.10.0/24 -o report.csv
 ```
 
 ## Disclaimer
