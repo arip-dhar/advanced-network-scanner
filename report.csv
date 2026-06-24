@@ -1,0 +1,3 @@
+ip,risk,hostname,latency,mac,os,vendor,services
+192.168.10.6,1.8,Hacker,210.63 ms,UNKNOWN,Windows Workstation/Server,Unknown Manufacturer,"139[Unknown Service], 445[SMB (Version Unknown)]"
+192.168.10.1,10.0,No PTR Record,215.58 ms,B4:F9:49:B5:CD:C0,Linux / Embedded IoT,optilink networks pvt ltd,"21[220 localhost.localdomain FTP ] [High: Plaintext Auth] [Med: Default Configuration Leaked], 22[SSH-2.0-dropbear_0.48] CVEs: [CVE-2012-0920] [High: Legacy Dropbear SSH Build], 23[ #'] CVEs: [CVE-1999-0619] [Critical: Completely Unencrypted Management Protocol], 53[Unknown Service], 80[HTTP (Boa/0.93.15)] Sec-Defects: [Clickjacking, HSTS Missing] CVEs: [CVE-2017-9833] [High: Obsolete BOA Daemon - Vulnerable to Memory Leakage], 443[SSL Handshake Failed (1007))]"
